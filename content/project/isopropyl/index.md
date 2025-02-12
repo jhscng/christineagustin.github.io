@@ -1,10 +1,8 @@
 ---
 title: Isopropyl Alcohol Production
-summary: Write about your project here...
+summary: Design of a large-scale isopropyl alcohol production process using direct hydration of propylene,  azeotropic separation through extractive distillation, and implementation of reactor pressure and temperature control strategies to enhance yield and efficiency.
 tags:
   - CV
 date: Sep to Dec 2024
-external_link: http://github.com
-## Project Report
-<embed src="/files/T8_Design Report.pdf" width="100%" height="600px" type="application/pdf"> 
+external_link: https://your-github-jhscng.github.io/files/isopropyl_project.pdf 
 ---
