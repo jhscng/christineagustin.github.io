@@ -4,5 +4,5 @@ summary: Design of a large-scale isopropyl alcohol production process using dire
 tags:
   - PE
 date: Sep to Dec 2024
-external_link: https://jhscng.github.io/christineagustin.github.io/uploads/IPAproject.pdf
+external_link: https://jhscng.github.io/christineagustin.github.io/uploads/ipa_project.pdf
 ---
