@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Process Engineering
+      tag: PE
+    - name: Bioprocess Engineering
+      tag: BE
+    - name: Sustainability
+      tag: SUS
+    - name: Mechanical & Structural Design
+      tag: MSD
 
 design:
   columns: '1'
