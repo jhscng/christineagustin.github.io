@@ -35,7 +35,7 @@ content:
     - name: Sustainability
       tag: SUS
     - name: Mechanical & Structural Design
-      tag: MSD
+      tag: MECH
 
 design:
   columns: '1'
