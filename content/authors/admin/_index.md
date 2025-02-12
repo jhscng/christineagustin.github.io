@@ -63,4 +63,4 @@ Christine Agustin is a second year chemical engineering student at the Universit
 
 
 
-{{< icon name="download" pack="fas" >}} [Download my resumé](uploads/resume.pdf)
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
