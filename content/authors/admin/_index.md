@@ -29,9 +29,9 @@ interests:
 - Cosmetics
 
 education:
-    course: B.A.Sc of Applied Science in Chemical and Biological Engineering
-    institution: University of British Columbia
-    year: 2nd year
+  course: B.A.Sc of Applied Science in Chemical and Biological Engineering
+  institution: University of British Columbia
+  year: 2nd year
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,13 +45,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/christine-pearl-agustin-0a8a19247/
 # Uncomment below for Github link
-  - icon: github
-  icon_pack: fab
-  link: https://github.com/jhscng
+  - =icon: github
+    icon_pack: fab
+    link: https://github.com/jhscng
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
+  - icon: cv
    icon_pack: ai
    link: files/cv.pdf
 
