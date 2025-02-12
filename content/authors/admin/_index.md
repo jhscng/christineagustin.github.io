@@ -29,9 +29,10 @@ interests:
 - Cosmetics
 
 education:
-  - course: B.A.Sc of Applied Science in Chemical and Biological Engineering
-    institution: University of British Columbia
-    year: 2nd year
+  courses:
+    - course: B.A.Sc of Applied Science in Chemical and Biological Engineering
+      institution: University of British Columbia
+      year: 2nd year
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
