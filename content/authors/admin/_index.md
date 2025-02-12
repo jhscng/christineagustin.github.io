@@ -12,7 +12,7 @@ role: Chemical and Biological Engineering Student
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐼
 
 # Organizations/Affiliations
 #organizations:
@@ -29,7 +29,7 @@ interests:
 - Cosmetics
 
 education:
-  course: B.A.Sc of Applied Science in Chemical and Biological Engineering
+  - course: B.A.Sc of Applied Science in Chemical and Biological Engineering
   institution: University of British Columbia
   year: 2nd year
 
@@ -45,7 +45,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/christine-pearl-agustin-0a8a19247/
 # Uncomment below for Github link
-  - =icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/jhscng
 
