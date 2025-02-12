@@ -20,16 +20,16 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ______
+bio: My research interests include food processing, pharmaceuticals, and sustainability.
+
 
 interests:
 - Food Processing Technologies
 - Pharmaceuticals
 - Cosmetics
 
-#education:
-  courses: Fluid Mechanics, Material Balance, Organic/Inorganic Chemistry, Computational Methods
-  - course: B.A.Sc of Applied Science in Chemical and Biological Engineering
+education:
+    course: B.A.Sc of Applied Science in Chemical and Biological Engineering
     institution: University of British Columbia
     year: 2nd year
 
@@ -45,7 +45,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/christine-pearl-agustin-0a8a19247/
 # Uncomment below for Github link
-- icon: github
+  - icon: github
   icon_pack: fab
   link: https://github.com/jhscng
 
@@ -59,7 +59,7 @@ social:
 #email: ""
 ---
 
-Christine Agustin is a second year chemical engineering student at the University of British Columbia. Her research interests include __. She leads ___.
+Christine Agustin is a second year chemical engineering student at the University of British Columbia. Her research interests include. She leads.
 
 
 
